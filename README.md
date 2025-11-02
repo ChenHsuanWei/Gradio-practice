@@ -26,19 +26,19 @@
 
 上傳圖片即可開始操作
 
-!\[上傳圖片](imgages/upload.png)
+!\[上傳圖片](images/upload.png)
 
 
 
 圖片描述，按下"Generate Caption"按鈕，便可以生成一段對圖片的敘述
 
-!\[圖片說明](imgages/caption.png)
+!\[圖片說明](images/caption.png)
 
 
 
 圖像問答，輸入問題按下按鈕，即可得到回覆
 
-!\[問答](imgages/caption.png)
+!\[問答](images/caption.png)
 
 
 
@@ -46,33 +46,29 @@
 
 原本圖片:
 
-!\[太陽](imgages/sun.jpg)
+!\[太陽](images/sun.jpg)
 
 
 
 模糊效果:
 
-!\[高斯模糊](imgages/blur.png)
+!\[高斯模糊](images/blur.png)
 
 
 
 灰階:
 
-!\[Grayscale](imgages/gray.png)
+!\[Grayscale](images/gray.png)
 
 
 
 銳化:
 
-!\[sharpen](imgages/sharpen.png)
+!\[sharpen](images/sharpen.png)
 
 
 
 對比度(明暗度):
 
-!\[sharpen](imgages/dark.png)
-
-
-
-
+!\[sharpen](images/dark.png)
 
