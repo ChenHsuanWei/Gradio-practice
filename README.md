@@ -32,7 +32,7 @@
 
 (1)圖片描述，按下"Generate Caption"按鈕，便可以生成一段對圖片的敘述
 
-!\[圖片說明](images/caption.png)
+![圖片說明](https://github.com/ChenHsuanWei/Gradio-practice/blob/main/images/caption.png)
 
 
 
