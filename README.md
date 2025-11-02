@@ -52,23 +52,23 @@
 
 模糊效果:
 
-!\[高斯模糊](images/blur.png)
+![高斯模糊](images/blur.png)
 
 
 
 灰階:
 
-!\[Grayscale](images/gray.png)
+![Grayscale](images/gray.png)
 
 
 
 銳化:
 
-!\[sharpen](images/sharpen.png)
+![sharpen](images/sharpen.png)
 
 
 
 對比度(明暗度):
 
-!\[sharpen](images/dark.png)
+![sharpen](images/dark.png)
 
