@@ -26,7 +26,7 @@
 
 上傳圖片即可開始操作
 
-!\[上傳圖片](images/upload.png)
+!\[上傳圖片](https://github.com/ChenHsuanWei/Gradio-practice/blob/main/images/upload.png)
 
 
 
