@@ -38,7 +38,7 @@
 
 (2)圖像問答，輸入問題按下按鈕，即可得到回覆
 
-!\[問答](images/caption.png)
+![問答](https://github.com/ChenHsuanWei/Gradio-practice/blob/main/images/QA.png)
 
 
 
@@ -46,7 +46,7 @@
 
 原本圖片:
 
-!\[太陽](images/sun.jpg)
+![太陽](images/sun.jpg)
 
 
 
