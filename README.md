@@ -26,23 +26,23 @@
 
 上傳圖片即可開始操作
 
-!\[上傳圖片](https://github.com/ChenHsuanWei/Gradio-practice/blob/main/images/upload.png)
+![上傳圖片](https://github.com/ChenHsuanWei/Gradio-practice/blob/main/images/upload.png)
 
 
 
-圖片描述，按下"Generate Caption"按鈕，便可以生成一段對圖片的敘述
+(1)圖片描述，按下"Generate Caption"按鈕，便可以生成一段對圖片的敘述
 
 !\[圖片說明](images/caption.png)
 
 
 
-圖像問答，輸入問題按下按鈕，即可得到回覆
+(2)圖像問答，輸入問題按下按鈕，即可得到回覆
 
 !\[問答](images/caption.png)
 
 
 
-圖片濾鏡，上傳圖片後，可以選擇各種效果程度，並按下"Apply Filter"
+(3)圖片濾鏡，上傳圖片後，可以選擇各種效果程度，並按下"Apply Filter"
 
 原本圖片:
 
